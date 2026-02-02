@@ -1,0 +1,27 @@
+{
+  "name": "Orchard Guardian: Granny Smith 2024",
+  "description": "The immutable guardian key for Asset ORC-APL-GS-2024-01. Grants stewardship authority and certification rights for the carbon sink located in Green, Ohio.",
+  "image": "https://raw.githubusercontent.com/mint-del/The-Orchard-Ledger/main/assets/guardian-key.png",
+  "attributes": [
+    {
+      "trait_type": "Asset ID",
+      "value": "ORC-APL-GS-2024-01"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Malus domestica (Granny Smith)"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Green, OH (Zone 6b)"
+    },
+    {
+      "trait_type": "Planting Status",
+      "value": "Remediated Ground Tenure"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "Certified Steward"
+    }
+  ]
+}
