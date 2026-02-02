@@ -1,1 +1,1 @@
-Groth log for the Orchard.
+Growth log for the Orchard.
